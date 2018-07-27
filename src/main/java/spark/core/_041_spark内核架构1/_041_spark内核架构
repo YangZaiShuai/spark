@@ -1,0 +1,26 @@
+1、已经达到可以熟练进行Spark编程的程度。
+2、Spark内核源码的研究，是Spark学习的承上启下阶段。
+3、内核源码研究透彻之后，才可以通往Spark高手 / Spark精通的道路。
+4、才可以继续进行Spark性能优化的学习。
+5、才可以在实际工作中，在Spark应用报错出现故障时，读懂log，
+    通过log分析问题的原因，甚至根据log直接到源码中寻找答案，最后解决线上故障。
+
+
+Spark内核架构
+1、Application
+2、spark-submit
+3、Driver
+4、SparkContext
+5、Master
+6、Worker
+7、Executor
+8、Job
+9、DAGScheduler
+10、TaskScheduler
+11、ShuffleMapTask and ResultTask
+
+我们自己编写的spark程序(Application) 打成jar包 上传到spark客户端,用(spark-submit)sshell运行
+在本地客户端 启动一个Driver(启动一个进程),去执行我们的程序
+
+
+

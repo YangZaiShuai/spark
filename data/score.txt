@@ -1,0 +1,19 @@
+classes1 91
+classes3 83
+classes1 70
+classes3 91
+classes1 90
+classes2 85
+classes1 92
+classes2 93
+classes1 94
+classes3 95
+classes1 99
+classes3 96
+classes1 97
+classes2 80
+classes3 96
+classes2 71
+classes1 82
+
+

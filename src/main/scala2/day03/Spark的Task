@@ -1,0 +1,6 @@
+spark 也有两类Task          MR
+shuffle Map Task         Map Task
+result Task              Reduce Task
+
+思想:
+多个人同时计算

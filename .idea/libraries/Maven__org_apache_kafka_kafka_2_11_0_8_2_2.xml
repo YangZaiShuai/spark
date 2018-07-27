@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.kafka:kafka_2.11:0.8.2.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.8.2.2/kafka_2.11-0.8.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.8.2.2/kafka_2.11-0.8.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.8.2.2/kafka_2.11-0.8.2.2-sources.jar!/" />
+      <root url="file://D:/kafka-0.8.2.2-src" />
+      <root url="file://D:/kafka-0.8.2.2-src/clients/src/main/java" />
+      <root url="file://D:/kafka-0.8.2.2-src/clients/src/test/java" />
+      <root url="file://D:/kafka-0.8.2.2-src/contrib/hadoop-consumer/src/main/java" />
+      <root url="file://D:/kafka-0.8.2.2-src/contrib/hadoop-producer/src/main/java" />
+      <root url="file://D:/kafka-0.8.2.2-src/core/src/main/scala" />
+      <root url="file://D:/kafka-0.8.2.2-src/examples/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
